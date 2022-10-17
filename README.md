@@ -27,16 +27,16 @@ My name is Sam Culley and I'm a Senior DevOps engineer/Software Engineer. I'm fr
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sculley&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/sculley/sculley">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sculley&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
 <a href="https://github.com/sculley/sculley">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sculley&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sculley&repo=ansible-mac-setup-playbook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/sculley/sculley">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sculley&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/sculley/someadmin-go">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sculley&repo=someadmin-go&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 <!-- links to social media icons -->

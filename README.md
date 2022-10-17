@@ -1,6 +1,8 @@
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
-[![Header](https://raw.githubusercontent.com/sculley/sculley/main/readme_header.png "Header")](https://www.samculley.co.uk/)
+<p align="center">
+  <img width="600" height="200" src="https://raw.githubusercontent.com/sculley/sculley/main/readme_header.png">
+</p>
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 

@@ -1,20 +1,20 @@
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-
 <p align="center">
   <img width="600" height="200" src="https://raw.githubusercontent.com/sculley/sculley/main/readme_header.png">
 </p>
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-* My name is Sam Culley and I'm a Senior DevOps engineer/Software Engineer. I'm from the United Kingdom, living in Gloucester and currently working at Novatiq Ltd. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+* My name is Sam Culley and I'm a Senior DevOps engineer/Software Engineer. I'm from the United Kingdom, living in Gloucester, and currently working at Novatiq Ltd. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
-* 👨🏻‍💻 I've made several contributes to open source, to repositories such as [Redis](https://github.com/redis/redis-py/pull/1723) & [Kubernetes](https://github.com/kubernetes/website/pulls?q=is%3Apr+is%3Aclose+author%3Asculley+)
+* 👨🏻‍💻 I've made several contributions to open-source repositories such as [Redis](https://github.com/redis/redis-py/pull/1723) & [Kubernetes](https://github.com/kubernetes/website/pulls?q=is%3Apr+is%3Aclose+author%3Asculley+)
 
-* Besides contributing to open-source and building cloud systems I enjoy building and painting <img width="32" heigh="32" src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Games_Workshop_logo.svg/1024px-Games_Workshop_logo.svg.png" /> Warhammer models and <img width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/1800/1800941.png" /> fishing 
+Besides contributions to open-source and building cloud systems, I enjoy building and painting <img width="32" heigh="32" src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Games_Workshop_logo.svg/1024px-Games_Workshop_logo.svg.png" /> Warhammer models.
 
-## Work Expirence
+You can view my Github Pages blog [here](https://sculley.github.io/).
 
-I've been working in tech since 2007 over a number of roles, a couple of my most recent ones are below.
+## Experience
+
+I've been working in tech since 2007 in many roles, a couple of my most recent ones are below.
 
 [<img align="left" height="94px" width="94px" alt="Novatiq" src="https://www.canny-creative.com/wp-content/uploads/2020/04/novatiq-header-image-logo-555x455.jpg"/>](https://www.novatiq.com/)
 
@@ -32,8 +32,7 @@ Languages & Technologies: `Linux`, `AWS`, `Python`, `Ansible`, `Terraform`, `Che
 <br/>
 <br/>
 
-Please find me on [LinkedIn]((https://www.linkedin.com/in/sam-culley-4763a53a/)) for a more detailed description of my full work experience, education and certification.
-
+Please find me on [LinkedIn]((https://www.linkedin.com/in/sam-culley-4763a53a/)) for a more detailed description of my full work experience, education & certifications.
 
 ## 🔧 Technologies & Tools
 
@@ -64,21 +63,13 @@ Please find me on [LinkedIn]((https://www.linkedin.com/in/sam-culley-4763a53a/))
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sculley&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
  
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
-<!-- icons without padding -->
-
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 [3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-<!-- links to your social media accounts -->
 
 [1]: https://twitter.com/culley
 [2]: https://github.com/sculley

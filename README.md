@@ -4,9 +4,11 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-* My name is Sam Culley and I'm a Senior DevOps engineer/Software Engineer. I'm from the United Kingdom, living in Gloucester, and currently working at Novatiq Ltd. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+* My name is Sam Culley and I'm a Senior DevOps engineer/Software Engineer. I'm from the United Kingdom, living in Gloucester, and currently working at Novatiq Ltd. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 * 👨🏻‍💻 I've made several contributions to open-source repositories such as [Redis](https://github.com/redis/redis-py/pull/1723) & [Kubernetes](https://github.com/kubernetes/website/pulls?q=is%3Apr+is%3Aclose+author%3Asculley+)
+
+* CKA Certified
 
 Besides contributions to open-source and building cloud systems, I enjoy building and painting <img width="32" heigh="32" src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fe/Games_Workshop_logo.svg/1024px-Games_Workshop_logo.svg.png" /> Warhammer models.
 
@@ -62,7 +64,10 @@ Please find me on [LinkedIn]((https://www.linkedin.com/in/sam-culley-4763a53a/))
 <a href="https://github.com/sculley/sculley">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sculley&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
- 
+
+## 📜 Certificates
+
+- Certified Kubernetes Administrator (CKA) #LF-hhrelufaew
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)

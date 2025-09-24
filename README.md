@@ -1,10 +1,10 @@
 <p align="center">
-  <img width="600" height="200" src="https://raw.githubusercontent.com/sculley/sculley/main/readme_header.png">
+  <img width="600" height="200" src="https://raw.githubusercontent.com/sculley/sculley/main/sculley-github-banner.jpg">
 </p>
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-* My name is Sam Culley and I'm a Senior DevOps engineer/Software Engineer. I'm from the United Kingdom, living in Gloucester, and currently working at Novatiq Ltd. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+* My name is Sam Culley and I'm a Senior DevOps engineer/Tech Lead & Software Engineer. I'm from the United Kingdom, living in Gloucester, and currently working at Novatiq Ltd. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
 * 👨🏻‍💻 I've made several contributions to open-source repositories such as [Redis](https://github.com/redis/redis-py/pull/1723) & [Kubernetes](https://github.com/kubernetes/website/pulls?q=is%3Apr+is%3Aclose+author%3Asculley+)
 
@@ -18,11 +18,11 @@ You can view my Github Pages blog [here](https://sculley.github.io/).
 
 I've been working in tech since 2007 in many roles, a couple of my most recent ones are below.
 
-[<img align="left" height="94px" width="94px" alt="Novatiq" src="https://www.canny-creative.com/wp-content/uploads/2020/04/novatiq-header-image-logo-555x455.jpg"/>](https://www.novatiq.com/)
+[<img align="left" height="94px" width="94px" alt="Novatiq" src="https://www.novatiq.com/wp-content/uploads/2023/07/social_placeholder-1.jpg"/>](https://www.novatiq.com/)
 
-**Senior DevOps Engineer** \
+**Senior DevOps Engineer/Tech Lead** \
 [**Novatiq**](https://www.novatiq.com/) • Full-Time \
-Languages & Technologies: `Linux`, `AWS`, `Azure`, `GCP`, `golang`, `Python`, `Ansible`, `Terraform`, `Helm`, `Pipelines`, `Cloud Automation`, `Infrastructure`, `Networking` \
+Languages & Technologies: `Linux`, `AWS`, `Azure`, `GCP`, `golang`, `Python`, `Ansible`, `Terraform`, `Helm`, `Pipelines`, `Cloud Automation`, `Infrastructure`, `Networking`, `ArgoCD` \
 <br/>
 <br/>
 
